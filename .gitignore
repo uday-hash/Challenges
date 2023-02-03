@@ -1,0 +1,5 @@
+Chatbot/__pycache__/*
+Chatbot/myenv/Include/*
+Chatbot/myenv/Lib/*
+Chatbot/myenv/Scripts/*
+Chatbot/api_secret.py 
